@@ -21,9 +21,9 @@ I like writing algorithmic solutions to real world problems.
 
 Currently learning Python frameworks and working on some projects.
 
-Checkout my articles on [DEV](https://dev.to/rakshakannu).
+Checkout my articles on [DEV](https://dev.to/rakshakannu)
 
-I also have a [tech blog](https://rakshakannusami.netlify.app/)! 🎉
+Or checkout my [tech blog](https://raksha.netlify.app/)! 🎉
 
 
 
