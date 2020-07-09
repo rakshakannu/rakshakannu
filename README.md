@@ -1,4 +1,4 @@
-### I'm Raksha Kannusami. 👩🏻‍💻
+### Hello there! I'm Raksha Kannusami. 👩🏻‍💻
 
 <!--
 **rakshakannu/rakshakannu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I love writing algorithmic solutions to real world problems. Currently learning Python frameworks.
+I am a computer science undergraduate who loves coffee and code.
 
-I love writing on [DEV](https://dev.to/rakshakannu).
+I like writing algorithmic solutions to real world problems. 
 
-Also checkout my [tech blog](https://rakshakannusami.netlify.app/).
+Currently learning Python frameworks and working on some projects.
+
+Checkout my articles on [DEV](https://dev.to/rakshakannu).
+
+I also have a [tech blog](https://rakshakannusami.netlify.app/)! 🎉
 
 
 
