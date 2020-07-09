@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 I love writing algorithmic solutions to real world problems. Currently learning Python frameworks.
 
-I also write article on [DEV](https://dev.to/rakshakannu) and maintain a [tech blog](https://rakshakannusami.netlify.app/).
+I love writing on [DEV](https://dev.to/rakshakannu).
+
+ALso checkout my [tech blog](https://rakshakannusami.netlify.app/).
 
 
 
