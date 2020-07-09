@@ -19,7 +19,7 @@ I love writing algorithmic solutions to real world problems. Currently learning 
 
 I love writing on [DEV](https://dev.to/rakshakannu).
 
-ALso checkout my [tech blog](https://rakshakannusami.netlify.app/).
+Also checkout my [tech blog](https://rakshakannusami.netlify.app/).
 
 
 
