@@ -16,14 +16,11 @@ Here are some ideas to get you started:
 -->
 
 I am a computer science undergraduate who loves coffee and code.
-
 I like writing algorithmic solutions to real world problems. 
-
 Currently learning Python frameworks and working on some projects.
 
 Checkout my articles on [DEV](https://dev.to/rakshakannu)
+Or checkout my [technical blog](https://raksha.netlify.app/)! 🎉
 
-Or checkout my [tech blog](https://raksha.netlify.app/)! 🎉
-
-
+Connect with me on [LinkedIn](https://www.linkedin.com/in/raksha-kannusami/).
 
