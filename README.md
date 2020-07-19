@@ -26,5 +26,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/raksha-kannusami/).
 
 Let's be friends on twitter!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/KannusamiRaksha?color=blue&label=My%20twitter&style=social)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/KannusamiRaksha?color=blue&logo=twitter&style=for-the-badge)](https://img.shields.io/twitter/follow/KannusamiRaksha?color=blue&logo=twitter&style=for-the-badge)
