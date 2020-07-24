@@ -23,13 +23,13 @@ Checkout my articles on [DEV](https://dev.to/rakshakannu) ⤵️
 
 <p>
 <a href="https://dev.to/rakshakannu" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rakshakannu" height="40" width="40" /></a>
-</p>
+</p> <-----
 
 Or checkout my [technical blog](https://raksha.netlify.app/)! 🎉
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/raksha-kannusami/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/raksha-kannusami/). 
 
-Mail me: raksha_kannu@yahoo.com 
+Mail me: raksha_kannu@yahoo.com 📩
 
 Let's be friends on twitter!
 
