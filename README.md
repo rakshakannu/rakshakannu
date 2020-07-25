@@ -23,7 +23,7 @@ Checkout my articles on [DEV](https://dev.to/rakshakannu) ⤵️
 
 <a href="https://dev.to/rakshakannu" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rakshakannu" height="40" width="40" /></a>
 
-Or checkout my [technical blog](https://raksha.netlify.app/)! 🎉
+Or checkout my [technical blog](https://rakshakannusami.netlify.app/)! 🎉
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/raksha-kannusami/). 
 
