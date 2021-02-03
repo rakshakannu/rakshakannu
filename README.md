@@ -31,4 +31,4 @@ Mail me: raksha_kannu@yahoo.com 📩
 
 Let's be friends on twitter!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/KannusamiRaksha?style=social)](https://twitter.com/KannusamiRaksha)
+[![Twitter Follow](https://img.shields.io/twitter/follow/KannusamiRaksha?style=social)](https://twitter.com/Raksha_Kannu)
