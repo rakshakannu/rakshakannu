@@ -19,11 +19,9 @@ I am a computer science undergraduate who loves coffee and code.
 I like writing algorithmic solutions to real world problems. 
 Currently learning Python frameworks and working on some projects.
 
-Checkout my articles on [DEV](https://dev.to/rakshakannu) ⤵️
+Checkout my articles on [DEV](https://dev.to/rakshakannu) 
 
-<a href="https://dev.to/rakshakannu" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rakshakannu" height="40" width="40" /></a>
-
-Or checkout my [technical blog](https://rakshakannusami.netlify.app/)! 🎉
+Or [Hashnode](https://rakshakannusami.hashnode.dev/)! 🎉
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/raksha-kannusami/). 
 
@@ -31,4 +29,4 @@ Mail me: raksha_kannu@yahoo.com 📩
 
 Let's be friends on twitter!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/KannusamiRaksha?style=social)](https://twitter.com/Raksha_Kannu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Raksha_Kannu?style=social)](https://twitter.com/Raksha_Kannu)
