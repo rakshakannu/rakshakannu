@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a computer science undergraduate who loves coffee and code.
 I like writing algorithmic solutions to real world problems. 
-Currently learning Python frameworks and working on some projects.
+Currently learning full stack development and working on a few projects.
 
 Checkout my articles on [DEV](https://dev.to/rakshakannu) 
 
