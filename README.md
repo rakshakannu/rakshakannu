@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 I am a computer science undergraduate who loves coffee and code.
 I like writing algorithmic solutions to real world problems. 
-Currently learning full stack development and working on a few projects.
+Currently improving my DSA skills and working on a few projects.
 
 Checkout my articles on [DEV](https://dev.to/rakshakannu) 
-
-Or [Hashnode](https://rakshakannusami.hashnode.dev/)! 🎉
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/raksha-kannusami/). 
 
