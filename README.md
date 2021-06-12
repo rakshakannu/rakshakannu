@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a computer science undergraduate who loves coffee and code.
 I like writing algorithmic solutions to real world problems. 
-Currently improving my DSA skills and working on a few projects.
+Currently improving my DSA skills and working on a [few projects](https://rakshakannu.github.io/Resume/). 
 
 Checkout my articles on [DEV](https://dev.to/rakshakannu) 
 
