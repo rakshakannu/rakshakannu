@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a computer science undergraduate who loves coffee and code.
+I am a computer science undergraduate learning to code.
 I like writing algorithmic solutions to real world problems. 
 Currently improving my DSA skills and working on a [few projects](https://rakshakannu.github.io/Resume/). 
 
@@ -24,6 +24,8 @@ Checkout my articles on [DEV](https://dev.to/rakshakannu)
 Connect with me on [LinkedIn](https://www.linkedin.com/in/raksha-kannusami/). 
 
 Mail me: raksha_kannu@yahoo.com 📩
+
+Find all my social links [here!](https://linktr.ee/rakshakannu)
 
 Let's be friends on twitter!
 
