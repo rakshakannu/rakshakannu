@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a computer science undergraduate learning to code.
-I like writing algorithmic solutions to real world problems. 
-Currently improving my DSA skills and working on a [few projects](https://rakshakannu.github.io/Resume/). 
+I am a software engineer at BlackRock.
+
+Currently learning python and exploring design patterns.
 
 Checkout my articles on [DEV](https://dev.to/rakshakannu) 
 
